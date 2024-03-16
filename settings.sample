@@ -1,0 +1,7 @@
+{
+    "ldap_username": "username",
+    "ldap_password": "password_base64_encoded",
+    "artifactory_url": "https://artifactory.local",
+    "artifactory_user": "user",
+    "artifactory_token": "token_base64_encoded"
+}
